@@ -1,6 +1,7 @@
 # food-delivery landing page
 * Preview: [DEMO LINK](https://progmari.github.io/food-delivery/)
-* ***You need to use a desktop to view this site***
+
+▶️ ***You need to use a desktop to view this site***
 
 ## Technologies used:
 * HTML5
